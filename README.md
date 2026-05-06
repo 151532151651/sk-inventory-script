@@ -1,3 +1,4 @@
+<img width="1919" height="1033" alt="Screenshot 2026-05-06 135444" src="https://github.com/user-attachments/assets/6dbf2ddb-4ad0-4f28-a83b-d4048dbfad7e" />
 # sk-inventory-scrip
 
 
