@@ -1,5 +1,4 @@
-# sk-inventory-script
-https://discord.gg/6Bycuqmku4
+# sk-inventory-scrip
 
 link inventory with image
 https://gofile.io/d/q73hqr
